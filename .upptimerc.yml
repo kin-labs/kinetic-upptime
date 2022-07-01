@@ -12,11 +12,11 @@ sites:
     url: https://kinetic.pages.dev
 
 status-website:
+  theme: dark
   baseUrl: /kinetic-upptime
   logoUrl: https://raw.githubusercontent.com/kintegrate/kin-logos/main/svg/kin-diamond-large-purple.svg
   name: Kinetic
-  introTitle: "Kinetic by Kin - Next generation API and SDK for Solana"
-  introMessage: This is a status page of our services.
+  introTitle: "Kinetic by Kin"
   navbar:
     - title: Status
       href: /
