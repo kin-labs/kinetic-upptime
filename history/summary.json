@@ -40,19 +40,19 @@
     "url": "https://kinetic.kin.org",
     "icon": "https://favicons.githubusercontent.com/kinetic.kin.org",
     "slug": "kinetic-docs",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 9
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://kinetic.pages.dev",
     "icon": "https://favicons.githubusercontent.com/kinetic.pages.dev",
     "slug": "kinetic-demo",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 223,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 9
     }
   }
 ]
