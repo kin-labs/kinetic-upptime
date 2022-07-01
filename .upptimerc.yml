@@ -12,7 +12,7 @@ sites:
     url: https://kinetic.pages.dev
 
 status-website:
-  theme: dark
+  theme: night
   baseUrl: /kinetic-upptime
   logoUrl: https://raw.githubusercontent.com/kintegrate/kin-logos/main/svg/kin-diamond-large-purple.svg
   name: Kinetic
