@@ -40,19 +40,19 @@
     "url": "https://kinetic.kin.org",
     "icon": "https://favicons.githubusercontent.com/kinetic.kin.org",
     "slug": "kinetic-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 260,
-    "timeWeek": 261,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 254,
+    "timeDay": 275,
+    "timeWeek": 266,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2022-07-16": 0
+      "2022-07-16": 9
     }
   },
   {
